@@ -2,6 +2,10 @@
 
 ### $${\color{blue}SERAGAKI}$$ ☆ $${\color{blue}AOBA}$$
 ![description](https://files.catbox.moe/zrgn4i.gif). . . *he / it* || $${\color{lightblue}mlm}$$ , trans
-<br>   iwc at all times , professional exorcist
+<br>   iwc at all times , professional **$${\color{red}exorcist}$$** & boykisser
 <br clear="left"/>
 ![description](https://files.catbox.moe/arjc9w.gif)![description](https://files.catbox.moe/arjc9w.gif)
+<center>
+  This text will be centered.
+  <p>So will this paragraph.</p>
+</center>
