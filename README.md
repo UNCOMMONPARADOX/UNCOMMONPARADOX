@@ -1,11 +1,11 @@
 <table>
   <tr>
     <td>
-      <img srce="https://files.catbox.moe/vxyzwi.gif" width="200" alt="description">
+      <img src="https://files.catbox.moe/vxyzwi.gif" width="200">
     </td>
     <td>
-      <h3>$${\color{blue}AOBA♥︎}$$</h3>
-      <p>i'm so cool.</p>
+      <h3>$${\color{blue}AOBA♥︎CUTEST AND COOLEST}$$</h3>
+      <p>    i'm so cool.</p>
     </td>
   </tr>
 </table>
