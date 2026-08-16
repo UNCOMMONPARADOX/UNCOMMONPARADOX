@@ -1,4 +1,5 @@
 <h1 align="center">「 BREAK . . . 」</h1>
+<h3 align="center"><a href="https://visitorbadge.io/status?path=UNCOMMONPARADOX"><img src="https://api.visitorbadge.io/api/visitors?path=UNCOMMONPARADOX&label=passerbys%20&labelColor=%23d9e3f0&countColor=%234155d9" /></a></h3>
 <p align="center">
  <img src="https://files.catbox.moe/w9zxwx.png"> 
  <img src="https://files.catbox.moe/flo5l1.png">
