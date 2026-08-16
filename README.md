@@ -8,5 +8,7 @@
  <br> ⬩➤ constantly w2i and iwc </br>
  <br> ⬩➤ catch me a docks / bakery , don't be afraid to chat </br>
  <br> ⬩➤ interests : fwmc , holostars , dmmd , splatoon , rhythm games</br>
+ <br> ⬩➤ friends : xei , nene , chuuya , not ayz chat , dante , red </br>
  <h1 align="center">  </h1>
+ <img src="https://files.catbox.moe/pk4hwi.png"
 </p>
