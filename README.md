@@ -1,4 +1,4 @@
-<h1 align="center">「 BREAK 」</h1>
+<h1 align="center">「 BREAK . . . 」</h1>
 <p align="center">
  <img src="https://files.catbox.moe/w9zxwx.png"> 
  <img src="https://files.catbox.moe/flo5l1.png">
